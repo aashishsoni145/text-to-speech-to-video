@@ -11,14 +11,15 @@
 
 ## Watch This Full Tutorial Video to Understand How This AI Bot Works!
 
-##Run Python Code (Android {using} [termux])
-# first install git and python in your termux by using these commands.
+#Run Python Code (Android (termux))
+
+## first install git and python in your termux by using these commands.
 `pkg install git`
 `pkg install python`
-# Now clone the git by using this command.
+## Now clone the git by using this command.
 `git clone https://github.com/aashishsoni145/text-to-speech-to-video`
 
-# Install all necessary libraries before using the python file.
+## Install all necessary libraries before using the python file.
 
 `pip install openai`
 `pip install moviepy`
