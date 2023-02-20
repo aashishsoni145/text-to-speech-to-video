@@ -33,3 +33,10 @@
 - enter your api key. {get this from open ai website}.
 ### all done 
 - run text generator python file and then video generator file [respectively].
+##### How to run
+- Go to termux and go inside the folder text-to-speech-to-video and type :-
+`python [text generator file name].py` click enter.
+- and for video
+`python [video generator file name].py`click enter.
+
+### Enjoy coding.
