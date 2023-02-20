@@ -9,18 +9,22 @@
 - Open this python file `video_generator.py`and run the script using this simple command: `python video_generator.py` to generate a video.
 - Enjoy Coding.
 
-## Watch This Full Tutorial Video to Understand How This AI Bot Works!
+#### Watch This Full Tutorial Video to Understand How This AI Bot Works!
 
 ## Run Python code (Android {using}[termux])
 
-### first install git and python in your termux by using these commands.
+#### first install git and python in your termux by using these commands.
 `pkg install git`
 `pkg install python`
-### Now clone the git by using this command.
+#### Now clone the git by using this command.
 `git clone https://github.com/aashishsoni145/text-to-speech-to-video`
 
-### Install all necessary libraries before using the python file.
+#### Install all necessary libraries before using the python file.
 
 `pip install openai`
 `pip install moviepy`
 `pip install gtts`
+`pip install re`
+`pip install os`
+`pip install requests`
+`pip install urllib`.
